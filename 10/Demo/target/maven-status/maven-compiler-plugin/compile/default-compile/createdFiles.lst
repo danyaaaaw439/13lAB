@@ -1,7 +1,9 @@
 com\example\PremiyaException.class
-com\example\ContractEmployee.class
-com\example\Employee.class
-com\example\StaffEmployee.class
+com\example\Firma.class
+com\example\Otdel.class
+com\example\ContractSotrudnik.class
 com\example\App.class
-com\example\Company.class
+com\example\ShtatSotrudnik.class
+com\example\NameException.class
+com\example\Sotrudnik.class
 com\example\OkladException.class

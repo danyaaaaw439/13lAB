@@ -1,0 +1,7 @@
+package com.example;
+
+public class NameException extends Exception {
+    public NameException(String message) {
+        super(message);
+    }
+}
