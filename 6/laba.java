@@ -9,7 +9,7 @@ class laba {
 
         switch (choice) {
             case 1: {
-                int a1 = 4;
+                int a1 = 45;
                 int x1 = (a1 * a1) - (2 * a1);
                 System.out.println("Result of task 1: " + x1);
                 break;
